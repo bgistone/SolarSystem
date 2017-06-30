@@ -1,0 +1,2 @@
+# SolarSystem
+configuration of cluster
